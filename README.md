@@ -16,7 +16,7 @@ This project focuses on building a machine learning model to classify emails int
 ## Installation and Usage
 1. Clone the repository:
    ```bash
-      git clone https://github.com/yourusername/spam-email-classifier.git
+      git clone https://github.com/parthdave333/spam-email-classifier.git
 
 
 2. Navigate to the project directory and open the Jupyter Notebook:
